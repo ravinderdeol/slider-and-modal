@@ -103,6 +103,7 @@ button:focus {
 }
 
 .cta-btn {
+    color: var(--primary-color);
     padding: 12px 30px;
     font-size: 20px;
 }
