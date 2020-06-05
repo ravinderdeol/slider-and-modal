@@ -1,1 +1,1 @@
-# slider-and-modal
+# Slider & Modal
